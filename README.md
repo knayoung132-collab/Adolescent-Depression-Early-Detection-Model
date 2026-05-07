@@ -1,4 +1,4 @@
-# 😔 Adolescent Depression Early Detection Model
+# Adolescent Depression Early Detection Model
 
 **Accuracy 84.6% / F1 84.6% / AUC 0.96**
 
@@ -89,7 +89,7 @@ An NLP pipeline that detects depression in adolescents by combining Naver Knowle
 
 ---
 
-# 😔 청소년 우울감 조기발견 모델
+# 청소년 우울감 조기발견 모델
 
 **Accuracy 84.6% / F1 84.6% / AUC 0.96**
 
